@@ -1,0 +1,1 @@
+I am a recently graduated graduate student. I have 6 years of work experience in optics and quality engineering. I enjoy writing software to help solve engineering problems. In the past I have written GUIs for interfacing with hardware as well as test programs to automate data collection and analysis of optical hardware.

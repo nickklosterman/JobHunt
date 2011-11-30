@@ -1,0 +1,13 @@
+C++
+Java
+Visual Basic
+OpenGL
+MySQL
+Matlab
+Bash scripting
+MS Access
+Linux Administration
+
+bash 
+python
+sed

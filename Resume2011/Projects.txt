@@ -1,0 +1,17 @@
+
+Created program to track and alert when products appear on certain deal of the day websites. 
+Product information stored in MySQL database.
+Email alerts and text messages sent when product matches keyword.
+Browser based interface for alert management and browsing of past products.
+
+
+MySQL
+SQLite
+Automated email
+php webpages to-->browser based interface
+graphs of trends
+www.djinnius.com/Deals
+
+Financial Project
+Stock Viz Project
+Java Dbase gui

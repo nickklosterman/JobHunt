@@ -1,0 +1,15 @@
+Graduate Level: 
+Digital Image Processing
+Computer Algorithms
+Random Variables
+Discrete Math
+Linear Algebra
+Visualization Techniques
+
+(UM)
+Signal Processing
+Fuzzy Logic
+
+Undergraduate Level:
+Electromagnetics I & II
+Radio Frequency Electronics
