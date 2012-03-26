@@ -1,0 +1,1 @@
+pdfjoin foo.pdf bar.pdf --outfile foobar.pdf
