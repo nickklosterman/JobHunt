@@ -1,0 +1,10 @@
+Siemens:
+Performed failure analysis of returned products, implemented corrective actions, and wrote report explaining problem and corrective action to customer.
+Performed SPC on product build up to ensure continued high product quality.
+Wrote software to streamline and analyze SPC data collection.
+
+IBM / JDS Uniphase
+Performed various optical and electrical tests on fiber optic transceivers.
+Wrote test software to automate capturing test parameters.
+Wrote software to automate report generation of test data.
+Wrote software to interface with embedded processor to allow customer to monitor onboard diagnostics.

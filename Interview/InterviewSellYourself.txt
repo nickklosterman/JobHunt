@@ -1,0 +1,5 @@
+Have gained knowledge of organizing databases
+Experience developing web apps
+Analogy of cycling racing and that feeding thirst for greater skill etc.
+LabVIEW and the rf switches and how some signalls needed to be triggered and some freerun. Need to Trigger the eyemask ones while ?eye mask? was freerun as you just compiled waveforms that were a certain length on top of each other to create waveform.
+Imitation before innovation. Learn for competency 

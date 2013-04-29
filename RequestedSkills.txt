@@ -1,0 +1,5 @@
+networking protocols, multi-threaded applications, user and kernel mode applications, algorithm development, and graphical user interfaces. Experience with various programming languages in a disciplined software development environment required, as well as integration of commercial and open source products.
+experience programming high-performance computing applications. Experience programming GPUs and/or multicore processors using C/C++, CUDA or OpenCL is required. Familiarity with image processing and/or computer vision algorithms is also required. Experience with MATLAB is highly desired. Knowledge and experience with high-speed interfaces such as PCI Express, SATA or equivalent is a plus.
+virtualization
+computer vision
+mobile applications

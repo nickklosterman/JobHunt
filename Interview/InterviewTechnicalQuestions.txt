@@ -1,0 +1,40 @@
+When would you use the virtual keyword - The word *virtual* means "may be redefined later in a class derived from this one."
+
+Why would you create and use a copy constructor vs the default - You need a custom copy constructor when the object has dynamically allocated memory so that the new object has its own copy of teh object that was dynamically allocated. The default copy constructor will do a memberwise copy which would leave both the new and the copied object pointing to the same dynamically allocated memory. This then implies that you need to write a destructor and operator=.
+
+What is the diff btw a hash map vs a map, array vs linked list, hash table vs binary tree--> know when to use one vs. the other
+
+what is the difference btw TCP and multicast
+
+What is multithreading - Writing a program to execute mutliple threads/miniprograms at once
+-->impractical for single core since will incur overhead of context switching and will actually be slower than a serial program
+-->need more RAM
+-->useful for accessing multiple cores
+-->what NVidia is tryng to do with their graphic cores and Intel is trying to do with Larrabee
+-->Can be thought of distributed programming on a single pc (cuz it has multiple cores)
+-->algo must be able to be parallelized.
+-->Hadoop and map/reduce systems.
+-->concurrency is another similar related idea that is important http://en.wikipedia.org/wiki/Concurrency_%28computer_science%29 :  "In computer science, concurrency is a property of systems in which several computations are executing simultaneously, and potentially interacting with each other." So from what I can tell concurrency isn't really concurrent on single core systems. But on mutlicore systems then yes important.
+-->"From the bird’s point of view, it’s not too hard to understand at all. The basic difference in multithreaded programming and multicore programming is this:
+
+If you are doing multithreaded programming for single-core systems, you gain nothing for trying to do a lot of processing simultaneously in multiple threads. The goal of multithreaded programming is to, instead, keep the idle time of the CPU as low as possible whilst doing the most work possible where the work will be done in serial fashion anyway. If you actually do attempt to do real processing in multiple threads, in most cases your performance will actually degrade faster than if you did it using serial programming. Why? Because the processor takes time to context-switch between tasks, and the more it has to do that, the more overhead you’ll incur.
+
+On a multicore system, on the other hand, your goals are quite different — you actually do want to spread the work out among the cores so that it DOES executes simultaneously, because your performance gain should be directly related to how many cores you have. So, a quad core system should be able to get the work done 4 times faster than a single core system. A 16-core platform should be 4-times faster than a quad-core system, and 16-times faster than a single core.
+
+Ah, but as always, there’s a catch. Hence my use of the words, “should be”, rather than “will be”.
+
+Making efficient use of multiple cores in highly non-trivial. For starters, you may not be able to break the tasks down to a parallelizable form. Or if you can, there may still be dependencies between the tasks where one would have to wait on another for information, or wait for a common resource — such as the hard drives or network cards — to become available.
+
+In a dynamic situation, such as a database server, the issues can become even more convoluted as you deal with the order many resources — such as rows in a table — are locked by many tasks running on many cores."
+from : http://www.linuxbloke.com/2009/06/29/the-difference-between-multithreaded-and-multicore-programming/
+http://stackoverflow.com/questions/1713554/threads-processes-vs-multithreading-multi-core-multiprocessor-how-they-are
+
+FIR filters are inherently stable (bc no feedback) and typically are designed with linear phase
+IIR filters may be shorter (less coefficients/taps
+
+
+Java Multithreaded questions:
+http://javarevisited.blogspot.com/2011/07/java-multi-threading-interview.html
+
+-->Don't give up so easily on these questions. Think of them rationally.
+Use your head and break down the words

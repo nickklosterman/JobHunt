@@ -1,0 +1,6 @@
+Latex to ASCII conversion
+http://stackoverflow.com/questions/530121/how-do-i-convert-latex-to-plain-text-ascii
+http://tex.stackexchange.com/questions/6431/options-for-converting-latex-to-plain-text
+
+General Latex resume writing
+http://stefano.italians.nl/archives/5

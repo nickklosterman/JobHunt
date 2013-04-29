@@ -1,0 +1,9 @@
+I have 5 years experience writing performing electro-optical 
+4/2//1 Gb/s speeds
+HP DIgital communications analyzers, pattern generators, mask margin, OMA, Extinction ratio, relative intensity noise, rise fall time, receive sensitivity, 
+across temp range of -40C to 85C
+GPIB 
+vb to interface w uc
+
+
+// fibre channel, ethernet speeds (or were they protocols 

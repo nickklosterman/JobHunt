@@ -1,0 +1,6 @@
+Programming:
+http://search.yahoo.com/search?p=interview+technical+programming+questions&ei=UTF-8&fr=moz35
+http://www.careercup.com/ <-- this is the website for the one book that orkun gave me. Has a running chat app where people discuss coding questions
+http://jobsearchtech.about.com/od/techinterviews/Technical_Interview_Questions_and_Tips.htm has subsections on various languages and areas that are asked.
+http://technical-interview.com/default.aspx website for Cracking the Coding interview book.
+http://previouspapers.blogspot.com/2008/04/technical-interview-questions.html 

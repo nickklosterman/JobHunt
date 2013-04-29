@@ -1,0 +1,92 @@
+\documentclass{resume}
+
+\renewcommand{\categoryfont}{\sc}
+
+%
+% set the space used for category titles here:
+% use the same value for oddsidemargin and marginparwidth [the latter 
+% 		will be reset to account for marginparsep]
+% 
+\setlength{\oddsidemargin}{1in}
+\setlength{\marginparwidth}{1in}
+% 
+% calculate other dimensions [textwidth and evensidemargin] 
+% in function of oddsidemargin and marginparwidth: 
+% would be nicer to put in the class file...
+%
+\addtolength{\marginparwidth}{-\marginparsep}
+ \setlength{\evensidemargin}{\oddsidemargin}
+ \setlength{\textwidth}{\paperwidth}
+ \addtolength{\textwidth}{-2in}
+ \addtolength{\textwidth}{-2\oddsidemargin}
+ \addtolength{\textwidth}{\marginparwidth}
+ \addtolength{\textwidth}{\marginparsep}
+%
+%
+\setlength{\topmargin}{-0.5in}
+%
+%
+\renewcommand{\labelcitem}{$\diamond$}
+\renewcommand{\labelitemi}{$\cdot$}
+\newcommand{\first}{$1^{\mbox{\scriptsize st}}$\ }
+\newcommand{\second}{$2^{\mbox{\scriptsize nd}}$\ }
+\newcommand{\third}{$3^{\mbox{\scriptsize rd}}$\ }
+
+\author{Nick Klosterman}
+% ------ Address --------------------------------------------------------
+
+\address{952 Westminster Place,  \\
+  Dayton, OH 45419-3759  \\}{
+(507) 990-9052  \\
+  \mbox{\small\tt nick.klosterman@gmail.com } }
+%\mbox{\small\tt nick\_klosterman@yahoo.com } 
+
+
+
+\begin{document}
+\maketitle
+
+% ------- Education ---------------------------------------------------
+%include <-- this will include a page break
+%\input <-- this will not include a page break
+\input{Education}
+
+% ------- Skills ------------------------------------------------------
+% to be modular with the skills we place the category tags here
+\begin{category}{Skills}
+
+\input{SoftwareSkills}
+\input{HardwareSkills}
+
+\end{category}
+
+% -------- Projects --------------------------------------------
+% would this look better as ``Freelance projects like Karl did?
+% you are using these projects to advertise your skill set. Make sure that they show you in a good light.
+%--------> list these as freelance to cover up the hole of time to find a job???
+\input{Projects}
+
+
+% --------- Research ----------------------------------------------------
+
+
+
+% -------- Work experience --------------------------------------------
+
+\input{WorkExperience}
+
+
+% -------- Publication --------------------------------------------
+
+\input{Publications}
+% \newpage
+
+% -------- Reference --------------------------------------------
+
+%\begin{category}{Reference} 
+%\citemnobullet Available on request.
+%\end{category}
+
+% -------- Interests / Hobbies  --------------------------------------------
+\input{Hobbies}
+\end{document}

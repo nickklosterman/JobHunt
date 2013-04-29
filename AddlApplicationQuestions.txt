@@ -1,0 +1,15 @@
+Relate how your work/education experience relates to performance demanded of this job.
+
+I have direct work experience writing test software to automate product testing.  In this capability I also developed software to automate report generation with statistical analysis of product performance.
+I am versed in several programming languages (C++, Java, LabVIEW, Visual Basic), scripting languages(Bash, Python, php), and analysis tools (Octave, Matlab) to perform the desired work to a high level.
+
+Career Objectives:
+I'm an electrical engineer searching for a position in product development or manufacturing where I can utilize my software skills for product performance analysis, testing, and evaluation.
+
+Do you have a strong engineering and computerized systems attitude? If so provide an example.
+
+My engineering background has provided me with a variety of tools to collect, interpret and analyze data in an efficient manner. 
+I currently use C++, Java, python, php, MySQL, GNUplot and various other open source tools to accomplish tasks spanning my projects that run the gamut of financial analysis to foreclosure mapping.
+I use C++, Java, and python for data analysis and retrieval.  MySQL is used for collecting and keeping data in an organized manner. I use GNUplot for generating plots on the fly of various parameters from data stored in the MySQL database.
+My foreclosure mapping project utilizes python to analyxe foreclosure listings, geocode (translate addresses into latitude/longitude coordinates) them, and enter the data into the database.  I then use php and the Google Maps API to plot the data online.
+

@@ -1,0 +1,2 @@
+Can you overload a function with the return type?
+Nope. You can't. The compiler does type matching according to the input argument list not the return type. So if two functions had the same arguments but a diff return type there wouldn't be any way to differentiate the two

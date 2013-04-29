@@ -1,0 +1,13 @@
+Lightbulbs in room questions
+
+Have 8 balls and a balance scale. 1 ball is slightly heavier. Can only use the balance scale 2 times. Find the odd ball. 
+Soln: Weigh 3 and 3 balls first. If the two sets are equal then you have the odd man out on the table. Weigh the two odd on the table to determine the odd man out. If the two sets aren't equal then clear the set that are all equal and take one of the 3 from the heavier set and place it on the scale. Hold the other in your hand. If the scale comes out equal then you have the odd man out in your hand. Otherwise the scale will tell you which is heavier.
+
+Hmm seems a bit stupid. If you are allowed to use the scale and have to use your hands in the worst case then just use your hands the entire time. If the 
+
+http://256.com/gray/teasers/
+
+
+
+
+--------------discuss how would solve problem such as using xml markup and web reports and shit like that. Power to automate and what you've learned and how would org data etc.
