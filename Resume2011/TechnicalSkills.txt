@@ -11,3 +11,5 @@ Linux Administration
 bash 
 python
 sed
+
+jQuery KendoUI MVVM JamieScript

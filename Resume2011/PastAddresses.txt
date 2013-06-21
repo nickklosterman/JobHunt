@@ -19,6 +19,22 @@ Aug 2009- July 2010
 1860 Ellison Dr. 
 West Lafayette, IN 47906
 
+Intelligrated: 7901 Innovation Way, Mason Ohio 45040
+David Sprauer Manager, Product Development - Software david.sprauer@intelligrated.com 513.701.7240
+Tim Rau Software Engineer tim.rau@ 513.701.5720
+Ken Dejager Sr. Software Engineer ken.dejager@ 513.701.7272
+Scott Strickland  Sr. Software Engineer  scott.strickland@ 513.701.5631
+James Shrider Principal Engineer james.shrider@ 513.701.7244
+Paul Keel Sr Software Engineer paul.keel@ 513.701.5743
+Jeff Nienaber principal engineer jeff.nienaber@ 513.682.6727
+Mark Holland
+Brian Resnick
+Josh Hays Sr. Software Engineer josh.hays@ 513.701.5796
+Adam Ewing Software Engineer adam.ewing@ 513.881.5183
+Mike Bell Principal Engineer mike.bell@ 513.7015763
+Peter Simon Software Engineer peter.simon@ 513.701.5770
+
+Matt Hernandez Software Craftsman matt@modulus.io  513.516.6805
 
 Purdue:465 Northwestern Ave West Lafayette, Indiana 47907
 David Ebert ebertd@purdue.edu 765-494-9064

@@ -2,9 +2,13 @@ Faith Sell (IBM)
 Steve Kerchberger (IBM)
 Mike Fetzer (Siemens)
 David Ebert (Purdue)
-
+David Sprauer (Intelligrated)
 
 Coworkers:
+Intelligrated
+-------------
+See the PastAddresses.txt file.
+
 IBM
 ---
 Dirk
