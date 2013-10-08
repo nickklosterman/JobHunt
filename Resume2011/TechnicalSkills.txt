@@ -8,6 +8,9 @@ Bash scripting
 MS Access
 Linux Administration
 
+MS Visual Studio 08,10,12
+MS Sql Server Studio 2008,2008R2
+
 bash 
 python
 sed
