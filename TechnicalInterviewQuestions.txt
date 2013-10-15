@@ -4,3 +4,16 @@ http://www.careercup.com/ <-- this is the website for the one book that orkun ga
 http://jobsearchtech.about.com/od/techinterviews/Technical_Interview_Questions_and_Tips.htm has subsections on various languages and areas that are asked.
 http://technical-interview.com/default.aspx website for Cracking the Coding interview book.
 http://previouspapers.blogspot.com/2008/04/technical-interview-questions.html 
+
+http://www.ardendertat.com/2011/12/13/programming-interview-questions-22-find-odd-occurring-element/
+http://hueniverse.com/2013/02/hiring-engineers-a-process/
+
+also joel on software gives good insight.
+pass by val vs. pass by ref
+
+Given an array of integers, find one that has odd occurrences
+Tell me about some of the difficult problems you've recently worked on.
+reverse a singly linked list.
+ -->edge cases, test cases
+
+find the lowest common ancestor of a BSTree
