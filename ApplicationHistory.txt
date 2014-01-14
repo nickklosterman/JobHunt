@@ -63,3 +63,7 @@ Received call from Ron Toke about a position. Playing phone tag. Spoke w ron tok
 Spoke with Jeff Sandvold about positions for Engr Svcs comp similar to Belcan. Their main customer is Deere in Cedar Falls IA.
 Spoke with Quantech about job at MIT/Linc Labs that was applied to on June 20
 The job id & position for Ron Toke's inquiry are:  Position: Manufacturing Systems Engineer, Job I.D.: 120605
+
+
+Mon Jan 13 21:47:17 EST 2014
+http://jobview.monster.com/JavaScript-Developer-Node-JS-javascript-jquery-Job-Covington-OH-128728527.aspx

@@ -1,6 +1,9 @@
 \documentclass{resume}
 
 \usepackage{hyperref} %for creating in document hyperref links, web postings say it may cause problems : http://stackoverflow.com/questions/3244803/latex-add-clickable-links-to-a-section-subsection-with-a-pdf-document, http://tex.stackexchange.com/questions
+\newif\ifDjinniusLinks
+\newif\ifWebLinks
+%\WebLinkstrue
 
 \renewcommand{\categoryfont}{\sc}
 
@@ -41,8 +44,12 @@
   Dayton, OH 45419-3759  \\}{
 (507) 990-9052  \\
   \mbox{\small\tt nick.klosterman@gmail.com } \\
+\ifWebLinks
 \href{http://github.com/nickklosterman}{http://github.com/nickklosterman}  \\
-\href{http://bitbucket.org/kklostermanoglu}{http://bitbucket.org/kklostermanoglu}
+\else
+http://github.com/nickklosterman  \\
+\fi
+%  this is my private stuff so I'm taking it off \href{http://bitbucket.org/kklostermanoglu}{http://bitbucket.org/kklostermanoglu}
  }
 %\mbox{\small\tt nick\_klosterman@yahoo.com } 
 
