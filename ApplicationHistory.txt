@@ -74,3 +74,6 @@ Location:    Dayton, OH
 Company Order Number:	1150
 # of openings:		1
 http://ch.tbe.taleo.net/CH01/ats/careers/requisition.jsp?org=AIS&cws=1&rid=1150&source=Glassdoor pwd: turkey1860Twain
+
+Mon Dec  1 22:13:06 EST 2014
+ JavaScript Developers (2 openings)/Columbus, OH at Randstad Technologies  http://jobview.monster.com/Apply/Apply.aspx?JobID=142737757
